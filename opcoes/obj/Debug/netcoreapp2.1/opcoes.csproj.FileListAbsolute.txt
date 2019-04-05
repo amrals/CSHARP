@@ -1,0 +1,11 @@
+C:\Users\41813664803\Documents\Aulas C#\opcoes\bin\Debug\netcoreapp2.1\opcoes.deps.json
+C:\Users\41813664803\Documents\Aulas C#\opcoes\bin\Debug\netcoreapp2.1\opcoes.runtimeconfig.json
+C:\Users\41813664803\Documents\Aulas C#\opcoes\bin\Debug\netcoreapp2.1\opcoes.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\Aulas C#\opcoes\bin\Debug\netcoreapp2.1\opcoes.dll
+C:\Users\41813664803\Documents\Aulas C#\opcoes\bin\Debug\netcoreapp2.1\opcoes.pdb
+C:\Users\41813664803\Documents\Aulas C#\opcoes\obj\Debug\netcoreapp2.1\opcoes.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\Aulas C#\opcoes\obj\Debug\netcoreapp2.1\opcoes.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\Aulas C#\opcoes\obj\Debug\netcoreapp2.1\opcoes.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\Aulas C#\opcoes\obj\Debug\netcoreapp2.1\opcoes.AssemblyInfo.cs
+C:\Users\41813664803\Documents\Aulas C#\opcoes\obj\Debug\netcoreapp2.1\opcoes.dll
+C:\Users\41813664803\Documents\Aulas C#\opcoes\obj\Debug\netcoreapp2.1\opcoes.pdb

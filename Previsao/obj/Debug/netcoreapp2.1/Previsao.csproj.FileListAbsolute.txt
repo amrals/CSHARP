@@ -1,0 +1,11 @@
+C:\Users\41813664803\Documents\Aulas C#\Previsao\bin\Debug\netcoreapp2.1\Previsao.deps.json
+C:\Users\41813664803\Documents\Aulas C#\Previsao\bin\Debug\netcoreapp2.1\Previsao.runtimeconfig.json
+C:\Users\41813664803\Documents\Aulas C#\Previsao\bin\Debug\netcoreapp2.1\Previsao.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\Aulas C#\Previsao\bin\Debug\netcoreapp2.1\Previsao.dll
+C:\Users\41813664803\Documents\Aulas C#\Previsao\bin\Debug\netcoreapp2.1\Previsao.pdb
+C:\Users\41813664803\Documents\Aulas C#\Previsao\obj\Debug\netcoreapp2.1\Previsao.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\Aulas C#\Previsao\obj\Debug\netcoreapp2.1\Previsao.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\Aulas C#\Previsao\obj\Debug\netcoreapp2.1\Previsao.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\Aulas C#\Previsao\obj\Debug\netcoreapp2.1\Previsao.AssemblyInfo.cs
+C:\Users\41813664803\Documents\Aulas C#\Previsao\obj\Debug\netcoreapp2.1\Previsao.dll
+C:\Users\41813664803\Documents\Aulas C#\Previsao\obj\Debug\netcoreapp2.1\Previsao.pdb

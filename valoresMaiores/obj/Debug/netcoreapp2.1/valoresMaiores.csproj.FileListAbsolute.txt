@@ -1,0 +1,11 @@
+C:\Users\41813664803\Documents\Aulas C#\valoresMaiores\obj\Debug\netcoreapp2.1\valoresMaiores.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\Aulas C#\valoresMaiores\obj\Debug\netcoreapp2.1\valoresMaiores.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\Aulas C#\valoresMaiores\obj\Debug\netcoreapp2.1\valoresMaiores.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\Aulas C#\valoresMaiores\obj\Debug\netcoreapp2.1\valoresMaiores.AssemblyInfo.cs
+C:\Users\41813664803\Documents\Aulas C#\valoresMaiores\bin\Debug\netcoreapp2.1\valoresMaiores.deps.json
+C:\Users\41813664803\Documents\Aulas C#\valoresMaiores\bin\Debug\netcoreapp2.1\valoresMaiores.runtimeconfig.json
+C:\Users\41813664803\Documents\Aulas C#\valoresMaiores\bin\Debug\netcoreapp2.1\valoresMaiores.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\Aulas C#\valoresMaiores\bin\Debug\netcoreapp2.1\valoresMaiores.dll
+C:\Users\41813664803\Documents\Aulas C#\valoresMaiores\bin\Debug\netcoreapp2.1\valoresMaiores.pdb
+C:\Users\41813664803\Documents\Aulas C#\valoresMaiores\obj\Debug\netcoreapp2.1\valoresMaiores.dll
+C:\Users\41813664803\Documents\Aulas C#\valoresMaiores\obj\Debug\netcoreapp2.1\valoresMaiores.pdb

@@ -1,0 +1,11 @@
+C:\Users\41813664803\Documents\Aulas C#\votacao\bin\Debug\netcoreapp2.1\votacao.deps.json
+C:\Users\41813664803\Documents\Aulas C#\votacao\bin\Debug\netcoreapp2.1\votacao.runtimeconfig.json
+C:\Users\41813664803\Documents\Aulas C#\votacao\bin\Debug\netcoreapp2.1\votacao.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\Aulas C#\votacao\bin\Debug\netcoreapp2.1\votacao.dll
+C:\Users\41813664803\Documents\Aulas C#\votacao\bin\Debug\netcoreapp2.1\votacao.pdb
+C:\Users\41813664803\Documents\Aulas C#\votacao\obj\Debug\netcoreapp2.1\votacao.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\Aulas C#\votacao\obj\Debug\netcoreapp2.1\votacao.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\Aulas C#\votacao\obj\Debug\netcoreapp2.1\votacao.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\Aulas C#\votacao\obj\Debug\netcoreapp2.1\votacao.AssemblyInfo.cs
+C:\Users\41813664803\Documents\Aulas C#\votacao\obj\Debug\netcoreapp2.1\votacao.dll
+C:\Users\41813664803\Documents\Aulas C#\votacao\obj\Debug\netcoreapp2.1\votacao.pdb
