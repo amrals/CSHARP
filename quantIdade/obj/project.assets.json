@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\41813664803\\Documents\\Aulas C#\\quantIdade\\quantIdade.csproj",
+      "projectUniqueName": "C:\\Users\\41813664803\\Documents\\CSHARP\\quantIdade\\quantIdade.csproj",
       "projectName": "quantIdade",
-      "projectPath": "C:\\Users\\41813664803\\Documents\\Aulas C#\\quantIdade\\quantIdade.csproj",
+      "projectPath": "C:\\Users\\41813664803\\Documents\\CSHARP\\quantIdade\\quantIdade.csproj",
       "packagesPath": "C:\\Users\\41813664803\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\41813664803\\Documents\\Aulas C#\\quantIdade\\obj\\",
+      "outputPath": "C:\\Users\\41813664803\\Documents\\CSHARP\\quantIdade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

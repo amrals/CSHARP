@@ -1,0 +1,11 @@
+C:\Users\41813664803\Documents\CSHARP\passagens\obj\Debug\netcoreapp2.1\passagens.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\CSHARP\passagens\obj\Debug\netcoreapp2.1\passagens.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\CSHARP\passagens\obj\Debug\netcoreapp2.1\passagens.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\CSHARP\passagens\obj\Debug\netcoreapp2.1\passagens.AssemblyInfo.cs
+C:\Users\41813664803\Documents\CSHARP\passagens\bin\Debug\netcoreapp2.1\passagens.deps.json
+C:\Users\41813664803\Documents\CSHARP\passagens\bin\Debug\netcoreapp2.1\passagens.runtimeconfig.json
+C:\Users\41813664803\Documents\CSHARP\passagens\bin\Debug\netcoreapp2.1\passagens.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\CSHARP\passagens\bin\Debug\netcoreapp2.1\passagens.dll
+C:\Users\41813664803\Documents\CSHARP\passagens\bin\Debug\netcoreapp2.1\passagens.pdb
+C:\Users\41813664803\Documents\CSHARP\passagens\obj\Debug\netcoreapp2.1\passagens.dll
+C:\Users\41813664803\Documents\CSHARP\passagens\obj\Debug\netcoreapp2.1\passagens.pdb

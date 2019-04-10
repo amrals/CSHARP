@@ -1,0 +1,11 @@
+C:\Users\41813664803\Documents\CSHARP\natal\obj\Debug\netcoreapp2.1\natal.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\CSHARP\natal\obj\Debug\netcoreapp2.1\natal.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\CSHARP\natal\obj\Debug\netcoreapp2.1\natal.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\CSHARP\natal\obj\Debug\netcoreapp2.1\natal.AssemblyInfo.cs
+C:\Users\41813664803\Documents\CSHARP\natal\bin\Debug\netcoreapp2.1\natal.deps.json
+C:\Users\41813664803\Documents\CSHARP\natal\bin\Debug\netcoreapp2.1\natal.runtimeconfig.json
+C:\Users\41813664803\Documents\CSHARP\natal\bin\Debug\netcoreapp2.1\natal.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\CSHARP\natal\bin\Debug\netcoreapp2.1\natal.dll
+C:\Users\41813664803\Documents\CSHARP\natal\bin\Debug\netcoreapp2.1\natal.pdb
+C:\Users\41813664803\Documents\CSHARP\natal\obj\Debug\netcoreapp2.1\natal.dll
+C:\Users\41813664803\Documents\CSHARP\natal\obj\Debug\netcoreapp2.1\natal.pdb

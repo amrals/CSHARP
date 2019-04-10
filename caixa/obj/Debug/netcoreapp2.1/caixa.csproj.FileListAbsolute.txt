@@ -1,0 +1,11 @@
+C:\Users\41813664803\Documents\CSHARP\caixa\obj\Debug\netcoreapp2.1\caixa.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\CSHARP\caixa\obj\Debug\netcoreapp2.1\caixa.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\CSHARP\caixa\obj\Debug\netcoreapp2.1\caixa.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\CSHARP\caixa\obj\Debug\netcoreapp2.1\caixa.AssemblyInfo.cs
+C:\Users\41813664803\Documents\CSHARP\caixa\bin\Debug\netcoreapp2.1\caixa.deps.json
+C:\Users\41813664803\Documents\CSHARP\caixa\bin\Debug\netcoreapp2.1\caixa.runtimeconfig.json
+C:\Users\41813664803\Documents\CSHARP\caixa\bin\Debug\netcoreapp2.1\caixa.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\CSHARP\caixa\bin\Debug\netcoreapp2.1\caixa.dll
+C:\Users\41813664803\Documents\CSHARP\caixa\bin\Debug\netcoreapp2.1\caixa.pdb
+C:\Users\41813664803\Documents\CSHARP\caixa\obj\Debug\netcoreapp2.1\caixa.dll
+C:\Users\41813664803\Documents\CSHARP\caixa\obj\Debug\netcoreapp2.1\caixa.pdb

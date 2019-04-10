@@ -1,0 +1,11 @@
+C:\Users\41813664803\Documents\CSHARP\ips\bin\Debug\netcoreapp2.1\ips.deps.json
+C:\Users\41813664803\Documents\CSHARP\ips\bin\Debug\netcoreapp2.1\ips.runtimeconfig.json
+C:\Users\41813664803\Documents\CSHARP\ips\bin\Debug\netcoreapp2.1\ips.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\CSHARP\ips\bin\Debug\netcoreapp2.1\ips.dll
+C:\Users\41813664803\Documents\CSHARP\ips\bin\Debug\netcoreapp2.1\ips.pdb
+C:\Users\41813664803\Documents\CSHARP\ips\obj\Debug\netcoreapp2.1\ips.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\CSHARP\ips\obj\Debug\netcoreapp2.1\ips.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\CSHARP\ips\obj\Debug\netcoreapp2.1\ips.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\CSHARP\ips\obj\Debug\netcoreapp2.1\ips.AssemblyInfo.cs
+C:\Users\41813664803\Documents\CSHARP\ips\obj\Debug\netcoreapp2.1\ips.dll
+C:\Users\41813664803\Documents\CSHARP\ips\obj\Debug\netcoreapp2.1\ips.pdb

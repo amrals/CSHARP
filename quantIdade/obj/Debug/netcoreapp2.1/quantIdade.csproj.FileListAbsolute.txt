@@ -9,3 +9,14 @@ C:\Users\41813664803\Documents\Aulas C#\quantIdade\obj\Debug\netcoreapp2.1\quant
 C:\Users\41813664803\Documents\Aulas C#\quantIdade\obj\Debug\netcoreapp2.1\quantIdade.AssemblyInfo.cs
 C:\Users\41813664803\Documents\Aulas C#\quantIdade\obj\Debug\netcoreapp2.1\quantIdade.dll
 C:\Users\41813664803\Documents\Aulas C#\quantIdade\obj\Debug\netcoreapp2.1\quantIdade.pdb
+C:\Users\41813664803\Documents\CSHARP\quantIdade\bin\Debug\netcoreapp2.1\quantIdade.deps.json
+C:\Users\41813664803\Documents\CSHARP\quantIdade\bin\Debug\netcoreapp2.1\quantIdade.runtimeconfig.json
+C:\Users\41813664803\Documents\CSHARP\quantIdade\bin\Debug\netcoreapp2.1\quantIdade.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\CSHARP\quantIdade\bin\Debug\netcoreapp2.1\quantIdade.dll
+C:\Users\41813664803\Documents\CSHARP\quantIdade\bin\Debug\netcoreapp2.1\quantIdade.pdb
+C:\Users\41813664803\Documents\CSHARP\quantIdade\obj\Debug\netcoreapp2.1\quantIdade.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\CSHARP\quantIdade\obj\Debug\netcoreapp2.1\quantIdade.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\CSHARP\quantIdade\obj\Debug\netcoreapp2.1\quantIdade.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\CSHARP\quantIdade\obj\Debug\netcoreapp2.1\quantIdade.AssemblyInfo.cs
+C:\Users\41813664803\Documents\CSHARP\quantIdade\obj\Debug\netcoreapp2.1\quantIdade.dll
+C:\Users\41813664803\Documents\CSHARP\quantIdade\obj\Debug\netcoreapp2.1\quantIdade.pdb
