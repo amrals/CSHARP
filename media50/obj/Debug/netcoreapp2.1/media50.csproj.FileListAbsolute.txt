@@ -1,0 +1,11 @@
+C:\Users\41813664803\Documents\CSHARP\media50\obj\Debug\netcoreapp2.1\media50.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\CSHARP\media50\obj\Debug\netcoreapp2.1\media50.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\CSHARP\media50\obj\Debug\netcoreapp2.1\media50.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\CSHARP\media50\obj\Debug\netcoreapp2.1\media50.AssemblyInfo.cs
+C:\Users\41813664803\Documents\CSHARP\media50\bin\Debug\netcoreapp2.1\media50.deps.json
+C:\Users\41813664803\Documents\CSHARP\media50\bin\Debug\netcoreapp2.1\media50.runtimeconfig.json
+C:\Users\41813664803\Documents\CSHARP\media50\bin\Debug\netcoreapp2.1\media50.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\CSHARP\media50\bin\Debug\netcoreapp2.1\media50.dll
+C:\Users\41813664803\Documents\CSHARP\media50\bin\Debug\netcoreapp2.1\media50.pdb
+C:\Users\41813664803\Documents\CSHARP\media50\obj\Debug\netcoreapp2.1\media50.dll
+C:\Users\41813664803\Documents\CSHARP\media50\obj\Debug\netcoreapp2.1\media50.pdb
