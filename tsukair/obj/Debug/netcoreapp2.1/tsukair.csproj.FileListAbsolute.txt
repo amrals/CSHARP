@@ -1,0 +1,11 @@
+C:\Users\41813664803\Documents\CSHARP\tsukair\obj\Debug\netcoreapp2.1\tsukair.csprojAssemblyReference.cache
+C:\Users\41813664803\Documents\CSHARP\tsukair\obj\Debug\netcoreapp2.1\tsukair.csproj.CoreCompileInputs.cache
+C:\Users\41813664803\Documents\CSHARP\tsukair\obj\Debug\netcoreapp2.1\tsukair.AssemblyInfoInputs.cache
+C:\Users\41813664803\Documents\CSHARP\tsukair\obj\Debug\netcoreapp2.1\tsukair.AssemblyInfo.cs
+C:\Users\41813664803\Documents\CSHARP\tsukair\bin\Debug\netcoreapp2.1\tsukair.deps.json
+C:\Users\41813664803\Documents\CSHARP\tsukair\bin\Debug\netcoreapp2.1\tsukair.runtimeconfig.json
+C:\Users\41813664803\Documents\CSHARP\tsukair\bin\Debug\netcoreapp2.1\tsukair.runtimeconfig.dev.json
+C:\Users\41813664803\Documents\CSHARP\tsukair\bin\Debug\netcoreapp2.1\tsukair.dll
+C:\Users\41813664803\Documents\CSHARP\tsukair\bin\Debug\netcoreapp2.1\tsukair.pdb
+C:\Users\41813664803\Documents\CSHARP\tsukair\obj\Debug\netcoreapp2.1\tsukair.dll
+C:\Users\41813664803\Documents\CSHARP\tsukair\obj\Debug\netcoreapp2.1\tsukair.pdb
